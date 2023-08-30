@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋</h1>
-<h3 align="center">This is Anuhya Sree</h3>
+<h2 align="center">This is Anuhya Sree</h2>
 
 - 🔭 I’m currently working on **a project based on AI**
 
